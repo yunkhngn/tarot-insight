@@ -5,11 +5,24 @@ const fs =require('fs')
 const path = require('path');
 
 const databasePath = path.join(__dirname, 'database.json')
+const ansPath = path.join(__dirname, 'ans.json')
 
 const data = fs.readFileSync(databasePath)
 const database = JSON.parse(data)
 
-console.log(databasePath)
+const ans = fs.readFileSync(ansPath)
+const answer = JSON.parse(ans)
+
+// Trả về answer bất kì
+app.get('/api/answer', (req, res) => {
+  res.set('title', 'Answer')
+  //get random answer
+  const randomAnswer = answer.ans.sort(() => 0.5 - Math.random()).slice(0, 1)
+  res.json(randomAnswer)
+})
+
+
+//Tarot
 
 app.get('/api', (req, res) => {
   const response = { status: "Successfully deploying API" };

@@ -1,0 +1,409 @@
+{
+  "total": 100,
+  "ans": [
+    {
+      "index": 1,
+      "answer": "Không."
+    },
+    {
+      "index": 2,
+      "answer": "Có!"
+    },
+    {
+      "index": 3,
+      "answer": "Tin vào trực giác của mình."
+    },
+    {
+      "index": 4,
+      "answer": "Câu trả lời nằm ở ngay trước mắt."
+    },
+    {
+      "index": 5,
+      "answer": "Cẩn thận với quyết định của mình."
+    },
+    {
+      "index": 6,
+      "answer": "Không nên làm gì ngay lúc này!"
+    },
+    {
+      "index": 7,
+      "answer": "Có thể."
+    },
+    {
+      "index": 7,
+      "answer": "Có lẽ là vậy."
+    },
+    {
+      "index": 8,
+      "answer": "Điều đó phụ thuộc vào bạn."
+    },
+    {
+      "index": 9,
+      "answer": "Không nên.."
+    },
+    {
+      "index": 10,
+      "answer": "Hãy thử một lần nữa."
+    },
+    {
+      "index": 11,
+      "answer": "Đi ăn gì đó đi!"
+    },
+    {
+      "index": 12,
+      "answer": "Hãy suy nghĩ kĩ trước khi đưa ra quyết định."
+    },
+    {
+      "index": 13,
+      "answer": "Không nên hy vọng quá nhiều."
+    },
+    {
+      "index": 14,
+      "answer": "Tất nhiên là có."
+    },
+    {
+      "index": 15,
+      "answer": "Hãy bình tĩnh và suy nghĩ thật kỹ."
+    },
+    {
+      "index": 16,
+      "answer": "Không nên nghĩ về nó ngay lúc này."
+    },
+    {
+      "index": 17,
+      "answer": "Có một khả năng nhỏ."
+    },
+    {
+      "index": 18,
+      "answer": "Tất nhiên là không."
+    },
+    {
+      "index": 19,
+      "answer": "Đi pha cốc nước chanh đã!"
+    },
+    {
+      "index": 20,
+      "answer": "Hành động ngay và luôn."
+    },
+    {
+      "index": 21,
+      "answer": "Suy nghĩ kĩ."
+    },
+    {
+      "index": 22,
+      "answer": "Cái này phải xem tarot."
+    },
+    {
+      "index": 23,
+      "answer": "Quyết địh đúng đắn."
+    },
+    {
+      "index": 24,
+      "answer": "Bỏ cuộc."
+    },
+    {
+      "index": 25,
+      "answer": "Tiếp tục cố gắng sẽ được đền đáp."
+    },
+    {
+      "index": 26,
+      "answer": "Đừng nên cố quá nhiều, sẽ thiệt về mình."
+    },
+    {
+      "index": 27,
+      "answer": "Vũ trụ bảo OK!"
+    },
+    {
+      "index": 28,
+      "answer": "Có khả năng."
+    },
+    {
+      "index": 29,
+      "answer": "Tin vào khả năng của bạn."
+    },
+    {
+      "index": 30,
+      "answer": "Tự lượng sức mình."
+    },
+    {
+      "index": 31,
+      "answer": "Cố gắng nhiều hơn nữa."
+    },
+    {
+      "index": 32,
+      "answer": "Không hề vô ích"
+    },
+    {
+      "index": 33,
+      "answer": "Cảm thấy mình có đủ sức không?"
+    },
+    {
+      "index": 34,
+      "answer": "Một là làm, hai là làm!"
+    },
+    {
+      "index": 35,
+      "answer": "Bỏ thôi, đừng đeo bám mãi!"
+    },
+    {
+      "index": 36,
+      "answer": "Không tốt cho mình."
+    },
+    {
+      "index": 37,
+      "answer": "Điều gì đến sẽ đến."
+    },
+    {
+      "index": 38,
+      "answer": "Có thể sẽ gặp trắc trở."
+    },
+    {
+      "index": 39,
+      "answer": "Khó khăn trước mắt."
+    },
+    {
+      "index": 40,
+      "answer": "Ta có nên? Có!"
+    },
+    {
+      "index": 41,
+      "answer": "Các cụ bảo không nên cố quá rồi quá cố."
+    },
+    {
+      "index": 42,
+      "answer": "Sắp được rồi!"
+    },
+    {
+      "index": 43,
+      "answer": "Thành công trong tầm tay!"
+    },
+    {
+      "index": 44,
+      "answer": "Rất nên!"
+    },
+    {
+      "index": 45,
+      "answer": "Không, đừng, đừng làm gì cả!"
+    },
+    {
+      "index": 46,
+      "answer": "Sẽ có khó khăn trước mắt, nhưng sẽ vượt qua được."
+    },
+    {
+      "index": 47,
+      "answer": "Không đi đến đâu."
+    },
+    {
+      "index": 48,
+      "answer": "Tin vào bạn nhé!"
+    },
+    {
+      "index": 49,
+      "answer": "Có khả năng cao là không."
+    },
+    {
+      "index": 50,
+      "answer": "Trong 7 tỉ khả năng, thì có 1 khả năng là đúng. Chính là cái này!"
+    },
+    {
+      "index": 51,
+      "answer": "Hãy lắng nghe trái tim."
+    },
+    {
+      "index": 52,
+      "answer": "Đây là thời điểm để hành động."
+    },
+    {
+      "index": 53,
+      "answer": "Có một sự bất ngờ đang chờ."
+    },
+    {
+      "index": 54,
+      "answer": "Hãy tin vào khả năng của bản thân."
+    },
+    {
+      "index": 55,
+      "answer": "Tình huống này cần sự kiên nhẫn."
+    },
+    {
+      "index": 56,
+      "answer": "Hãy xem sự lạc quan trong mọi tình huống."
+    },
+    {
+      "index": 57,
+      "answer": "Cần thiết phải thử một cách mới."
+    },
+    {
+      "index": 58,
+      "answer": "Điều này sẽ mang lại sự trưởng thành."
+    },
+    {
+      "index": 59,
+      "answer": "Hãy học từ sai lầm."
+    },
+    {
+      "index": 60,
+      "answer": "Đây là thời điểm để thay đổi."
+    },
+    {
+      "index": 61,
+      "answer": "Có một cơ hội lớn đang đến gần."
+    },
+    {
+      "index": "6",
+      "answer": "Hãy để quá khứ ở phía sau."
+    },
+    {
+      "index": 63,
+      "answer": "Điều này đang trở thành hiện thực."
+    },
+    {
+      "index": 64,
+      "answer": "Vũ trụ bảo không."
+    },
+    {
+      "index": 65,
+      "answer": "Đây là thời điểm để đánh giá lại ưu tiên."
+    },
+    {
+      "index": 66,
+      "answer": "Hãy tận hưởng hành trình."
+    },
+    {
+      "index": 67,
+      "answer": "Điều này đang dẫn dắt đến một cánh cửa mới."
+    },
+    {
+      "index": 68,
+      "answer": "Hãy giữ lòng bình tĩnh trong mọi tình huống."
+    },
+    {
+      "index": 69,
+      "answer": "Cần thiết phải chấp nhận sự thay đổi."
+    },
+    {
+      "index": 70,
+      "answer": "Hãy để tình yêu và sự sáng tạo dẫn dắt."
+    },
+    {
+      "index": 71,
+      "answer": "Đừng nghe nyc."
+    },
+    {
+      "index": 72,
+      "answer": "Câu trả lời nằm ở sự sáng suốt."
+    },
+    {
+      "index": 73,
+      "answer": "Hãy tự tin và đi theo trực giác."
+    },
+    {
+      "index": 74,
+      "answer": "Đừng sợ thử thách, hãy đối mặt với nó."
+    },
+    {
+      "index": 75,
+      "answer": "Sự khám phá mới đang chờ đợi bạn."
+    },
+    {
+      "index": 76,
+      "answer": "Hãy nhớ rằng mọi thứ thay đổi."
+    },
+    {
+      "index": 77,
+      "answer": "Đôi khi, câu trả lời ở trong mình."
+    },
+    {
+      "index": 78,
+      "answer": "Hãy tìm kiếm cân bằng trong cuộc sống."
+    },
+    {
+      "index": 79,
+      "answer": "Điều này cần sự kiên nhẫn và nhẫn nại."
+    },
+    {
+      "index": 80,
+      "answer": "Hãy lắng nghe lời khuyên của người khác."
+    },
+    {
+      "index": 81,
+      "answer": "Có một cơ hội tốt đang đến gần."
+    },
+    {
+      "index": 82,
+      "answer": "Hãy tập trung vào mục tiêu."
+    },
+    {
+      "index": 83,
+      "answer": "Điều này sẽ đem lại niềm vui."
+    },
+    {
+      "index": 84,
+      "answer": "Hãy học từ trải nghiệm của người khác."
+    },
+    {
+      "index": 85,
+      "answer": "Điều này đang mở ra một cánh cửa mới."
+    },
+    {
+      "index": 86,
+      "answer": "Không có khả năng thì không nên."
+    },
+    {
+      "index": 87,
+      "answer": "Cần thiết phải xem xét lại quyết định."
+    },
+    {
+      "index": 88,
+      "answer": "Hãy lấy đà để làm một bước nhảy về phía trước."
+    },
+    {
+      "index": 89,
+      "answer": "Đây là thời điểm để đánh giá lại mục tiêu."
+    },
+    {
+      "index": 90,
+      "answer": "Tận hưởng những khoảnh khắc nhỏ trong cuộc sống."
+    },
+    {
+      "index": 91,
+      "answer": "Điều này đang gợi mở một cuộc thay đổi."
+    },
+    {
+      "index": 92,
+      "answer": "Đặt mục tiêu lớn và đam mê theo đuổi chúng."
+    },
+    {
+      "index": 93,
+      "answer": "Đừng để sự sợ hãi ngăn bạn tiến lên phía trước."
+    },
+    {
+      "index": 94,
+      "answer": "Hãy tìm kiếm cảm hứng từ những nguồn bên ngoài."
+    },
+    {
+      "index": 95,
+      "answer": "Điều này đang yêu cầu sự linh hoạt và thích ứng."
+    },
+    {
+      "index": 96,
+      "answer": "Hãy xem xét những khía cạnh khác nhau của vấn đề."
+    },
+    {
+      "index": 97,
+      "answer": "Điều này sẽ không mang lại sự đổi mới và sáng tạo."
+    },
+    {
+      "index": 98,
+      "answer": "Hãy tận dụng cơ hội và không hối tiếc."
+    },
+    {
+      "index": 99,
+      "answer": "Đôi khi, câu trả lời nằm ở bên cạnh mình."
+    },
+    {
+      "index": 100,
+      "answer": "Thanh Ngọc đang phân vân giữa không và có (Thiên bình mà 🗿)."
+    }
+  ]
+}
