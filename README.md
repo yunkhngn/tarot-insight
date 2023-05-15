@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Tarot Insight Repository
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://thepalmtreehouse.com/wp-content/uploads/2022/09/photo-1600429991827-5224817554f8.jpeg" style="border-radius:10px"></img>
 
-## Available Scripts
+Tarot Insight Repository is an open-source code repository for a cross-platform tarot card reading application. This repository provides source code, documentation, and resources necessary to build and develop a tarot card reading application.
 
-In the project directory, you can run:
+*Author: @yunkhngn*
 
-### `yarn start`
+----------
+## 1. Description
+The Tarot Insight app allows users to explore and discover the fascination of tarot cards through the following features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Tarot card collection: The repository provides a complete collection of tarot cards, including both Major Arcana and Minor Arcana. Users can learn about each card and its meaning.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Automatic card reading: The app offers the ability to automatically draw a tarot card, allowing users to receive a random card and corresponding message to reflect and learn from.
+- Learn about tarot: The repository provides detailed documentation and guidance on the history, structure, and usage of tarot cards. Users can learn about tips, methods, and techniques for using tarot cards.
+- User-friendly interface: The app is designed with a simple and user-friendly interface, making it easy for users to interact and experience tarot card reading conveniently and easily.
+- Tarot Insight Repository is a useful resource for those interested in developing and expanding their own tarot card reading application.
 
-### `yarn test`
+## 2. Installation
+To install the app, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository to your local machine
 
-### `yarn build`
+```sh
+git clone https://github.com/yunkhngn/tarot-insight.git
+cd tarot-insight
+```
+2. Install dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+yarn install
+## or npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Run the app
+```sh
+yarn start
+## or npm start
+```
+3. Install API dependencies
+```sh
+cd api
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+yarn install
 
-### `yarn eject`
+## or npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+node index.js
+```
+## 3. Usage
+To use the app, follow these steps:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Launch the app on your preferred platform. Explore the tarot card collection and learn about each card. Draw a card to receive a message and reflect on its meaning.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Learn more about tarot cards and techniques for using them in readings.
+Contributing.
 
-## Learn More
+## 4. Contribution
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions to Tarot Insight Repository are welcome! To contribute, please follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Make changes and commit them to your branch
+4. Submit a pull request to the main repository.
 
-### Code Splitting
+_____________
+## 5. License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Tarot Insight Repository is licensed under the MIT License. See LICENSE for more information.
