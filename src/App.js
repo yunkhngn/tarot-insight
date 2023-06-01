@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <Tilt className="card" options={{ max: 30, perspective: 1000, scale: 1.1 }}>
         <div className="Tilt-inner">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/640px-RWS_Tarot_00_Fool.jpg"/>
+          Tui chưa làm cái j đâu á trời
+          <p>Nghịch API tại /api/</p>
         </div>
       </Tilt>
     </div>
