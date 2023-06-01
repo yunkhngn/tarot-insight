@@ -92,20 +92,22 @@ fetch("https://tarotinsight.vercel.app/api/")
 | `/api/` or `/api/cards` | return all cards                        |                                                                                                                 |
 | `/api/cards/:name`   | return card with specified `name` | `'/the-magician'`,`'/the-fool'`... |
 | `/api/cards/:name/:search/`        | search fields of one cards                        | `/the-magician/desc`                                                              |
-| `/api/random`        | get 3 random card                     |                                                                                  |
+| `/api/random`        | get 3 random card with all meanings                     |                                                                                  |
+| `/api/random-mixed/` | get 3 random card but can be reversed or upright |
 
 **JSON format:**
 ```json
 {
-  "type":"Type majors or minors",
-  "slug":"Slug",
-  "name_short":"Short name",
-  "name":"Name",
-  "value":"Card index (string)",
-  "value_int": "Card index (number)",
-  "meaning_up": "Meaning up.",
-  "meaning_rev": "Meaning reverse.",
-  "desc": "Descriptions"
+  "type": string,
+  "slug": string,
+  "name_short": string,
+  "name": string,
+  "value": string,
+  "value_int": integer,
+  "meaning_up": string,
+  "meaning_rev": string,
+  "desc": string,
+  "isReversed": boolean //only for random mixed
 }
 ```
 

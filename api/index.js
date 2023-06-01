@@ -20,8 +20,6 @@ app.get('/api/answer', (req, res) => {
   const randomAnswer = answer.ans.sort(() => 0.5 - Math.random()).slice(0, 1)
   res.json(randomAnswer)
 })
-
-
 //Tarot
 
 app.get('/api', (req, res) => {
@@ -57,6 +55,20 @@ app.get('/api/random', (req, res) => {
   const cards = database.cards.sort(() => 0.5 - Math.random()).slice(0, 3)
   res.set('title', 'Random 3 cards')
   res.json(cards)
+})
+
+// Random 3 lá bài, các lá bài có thể là reverse hoặc upright
+app.get('/api/random-mixed', (req, res) => {
+  const cards = database.cards.sort(() => 0.5 - Math.random()).slice(0, 3)
+  const mixedCards = cards.map((card) => {
+    const isReversed = Math.random() > 0.5 ? true : false
+    return {
+      ...card,
+      isReversed,
+    }
+  })
+  res.set('title', 'Random 3 cards, mixed')
+  res.json(mixedCards)
 })
 
 // Tra thông tin của một lá bài bất kì
